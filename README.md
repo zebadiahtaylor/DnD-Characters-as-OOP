@@ -7,4 +7,6 @@ More art than functional code, for now.
 
 If you're a DnD fan learning about OOP for the first time, this *may* be an interesting comparison point. 
 
-Similar code could be used for a average damage predictor as well. 
+Similar code could be used for a average damage predictor as well.
+
+First, check out Character_base.py; after browsing that, check out fighter.py
